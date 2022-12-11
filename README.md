@@ -1,2 +1,2 @@
 # Voting-Management-System
-Java Swing, MySql Databas
+Java Swing, MySql Database
